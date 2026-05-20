@@ -9,6 +9,7 @@ This repository contains documentation of the installation, setup, and issues AI
 
 ## Steps Completed
 1. Installed Cursor IDE to selected folder
+ 
    <img width="595" height="463" alt="image" src="https://github.com/user-attachments/assets/c712edde-ab7d-4a0a-81b1-8a0913557f58" />
 
 
