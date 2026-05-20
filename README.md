@@ -1,4 +1,4 @@
-# 100Hires---Junior-Growth-Marketing-Specialist
+# How to Install Cursor IDE
 This repository contains documentation of the installation, setup, and issues AI-assisted development tools including Cursor IDE
 
 ## Tools Installed
